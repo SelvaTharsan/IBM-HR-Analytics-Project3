@@ -14,7 +14,8 @@ Companies lose millions in recruitment and training costs due to employee turnov
 - **SQL** - Data extraction and analysis
 - **Scikit-learn** - Random Forest, Logistic Regression
 
-### Dataset used 1,470 employees | 35 features | 16.1% attrition rate
+## Dataset 
+- used 1,470 employees | 35 features | 16.1% attrition rate
 -	<a href="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/coffee%20sales_Dataset.csv"> Dataset </a>
 
 ## Excel Dashboard Features
@@ -23,7 +24,7 @@ Companies lose millions in recruitment and training costs due to employee turnov
 - Slicers for Department, Gender, Education
 - Real-time filtering
 
-  ## Machine Learning Performance
+## Machine Learning Performance
 
 | Model | Accuracy | ROC-AUC |
 |-------|----------|---------|
