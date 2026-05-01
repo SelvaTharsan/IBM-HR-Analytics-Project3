@@ -16,7 +16,7 @@ Companies lose millions in recruitment and training costs due to employee turnov
 
 ## Dataset 
 - used 1,470 employees | 35 features | 16.1% attrition rate
--	<a href="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/coffee%20sales_Dataset.csv"> Dataset </a>
+-	<a href="C:\Users\S.Tharsan\OneDrive\Desktop\Unified_Mentor_Internship\Projects\Project 3-IBM HR Analytics\Submission\WA_Fn-UseC_-HR-Employee-Attrition.csv"> Dataset </a>
 
 ## Excel Dashboard Features
 - KPI Cards (Total Employees, Attrition Rate, etc.)
