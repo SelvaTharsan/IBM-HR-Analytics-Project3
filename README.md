@@ -59,7 +59,7 @@ The analysis reveals that overtime, age (18-25), and low job satisfaction are th
 [View Report](https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/MY%20SQL%20QUERIES.sql)
   
 ### Model Predictions 
-[View Report](https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/project-1-coffee-sales.py)
+[View Report](https://github.com/SelvaTharsan/IBM-HR-Analytics-Project3/blob/main/Project-3-IBM%20HR%20Analytics.py)
 
 
 
