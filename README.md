@@ -1,6 +1,6 @@
 # IBM-HR-Analytics-Project2
 ## Project Overview  
-This project analyzes employee attrition using IBM's HR Analytics dataset (1,470 employees, 35 features). The goal is to identify key factors driving employee turnover and build predictive models to flag at-risk employees. The project combines Excel dashboards for business intelligence, SQL for data querying, and Machine Learning (Random Forest) for attrition prediction. Key findings reveal that overtime (3x higher attrition), low job satisfaction, and poor work-life balance are the strongest predictors of employee departure. The final deliverable includes an interactive Excel dashboard, 30+ SQL queries, and a production-ready ML model with 85% accuracy.
+This project analyzes employee attrition using IBM's HR Analytics dataset (1,470 employees, 35 features). The goal is to identify key factors driving employee turnover and build predictive models to flag at-risk employees. The project combines Excel dashboards for business intelligence, SQL for data querying, and Machine Learning (Logistic Regression) for attrition prediction. Key findings reveal that overtime (3x higher attrition), low job satisfaction, and poor work-life balance are the strongest predictors of employee departure. The final deliverable includes an interactive Excel dashboard, 30+ SQL queries, and a production-ready ML model with 85% accuracy.
 
 ## Business Problem
 Companies lose millions in recruitment and training costs due to employee turnover. This project helps HR teams:
@@ -28,9 +28,9 @@ Companies lose millions in recruitment and training costs due to employee turnov
 
 | Model | Accuracy | ROC-AUC |
 |-------|----------|---------|
-| Random Forest | 86.5% | 0.89 |
-| Logistic Regression | 84.2% | 0.85 |
-| Decision Tree | 82.1% | 0.81 |
+| Random Forest | 82% | 0.80 |
+| Logistic Regression | 85% | 0.70 |
+| Decision Tree | 80% | 0.79 |
 
 **Top 5 Attrition Predictors:**
 1. Overtime
