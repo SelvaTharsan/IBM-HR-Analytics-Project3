@@ -1,4 +1,4 @@
-# IBM-HR-Analytics-Project2
+# IBM-HR-Analytics-Project3
 ## Project Overview  
 This project analyzes employee attrition using IBM's HR Analytics dataset (1,470 employees, 35 features). The goal is to identify key factors driving employee turnover and build predictive models to flag at-risk employees. The project combines Excel dashboards for business intelligence, SQL for data querying, and Machine Learning (Logistic Regression) for attrition prediction. Key findings reveal that overtime (3x higher attrition), low job satisfaction, and poor work-life balance are the strongest predictors of employee departure. The final deliverable includes an interactive Excel dashboard, 30+ SQL queries, and a production-ready ML model with 85% accuracy.
 
