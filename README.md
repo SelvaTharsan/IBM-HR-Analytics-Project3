@@ -56,7 +56,7 @@ The analysis reveals that overtime, age (18-25), and low job satisfaction are th
 <img width="1366" height="618" alt="IBM HR Analytics Dashboard" src="https://github.com/user-attachments/assets/8c005876-57a6-4c04-a0ad-30bc374535be" />
 
 ### SQL Results
-[View Report](https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/MY%20SQL%20QUERIES.sql)
+[View Report](https://github.com/SelvaTharsan/IBM-HR-Analytics-Project3/blob/main/Project3-IBM%20HR%20Analytics.sql)
   
 ### Model Predictions 
 [View Report](https://github.com/SelvaTharsan/IBM-HR-Analytics-Project3/blob/main/Project-3-IBM%20HR%20Analytics.py)
